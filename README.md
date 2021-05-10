@@ -1,7 +1,11 @@
 # Z80 Computer
 
 Small project I will be working on.
-
+\
+EVERYTHING HERE IS JUST A PROTOTYPE!
+\
+\
+\
 Planned specs:
 
 \
